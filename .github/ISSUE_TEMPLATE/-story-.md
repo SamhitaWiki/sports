@@ -2,7 +2,7 @@
 name: "[STORY]"
 about: How do we want to track progress on stories?
 title: "[STORY]"
-labels: Food Science
+labels: Sports
 assignees: ''
 
 ---
